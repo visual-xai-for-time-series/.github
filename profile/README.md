@@ -1,6 +1,6 @@
-# Visual Explainable AI for Time Series Classification
+# Visual Explainable AI for Time Series
 
-Visual Explainable AI for Time Series Classification establishing a framework for explainable artificial intelligence for time series deep learning models using attributions and counterfactuals.
+Visual Explainable AI for Time Series establishing a framework for explainable artificial intelligence for time series deep learning models using attributions and counterfactuals.
 
 ## About
 
